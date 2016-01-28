@@ -1,0 +1,1 @@
+Submitted as supporting example of bug report at [https://github.com/phpspec/prophecy/issues/250](https://github.com/phpspec/prophecy/issues/250).
