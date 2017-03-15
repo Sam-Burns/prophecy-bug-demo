@@ -1,1 +1,2 @@
-Submitted as supporting example of bug report at [https://github.com/phpspec/prophecy/issues/250](https://github.com/phpspec/prophecy/issues/250).
+Clone this repository, run composer, and run `./vendor/bin/phpspec r` to see the return typehint bug.
+
